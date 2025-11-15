@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Faisal 👋
 
-<!--
-**awsfaisal/awsfaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps & Cloud Enthusiast  
 
-Here are some ideas to get you started:
+- 🔭 Currently practicing **3-Tier Architecture Deployment**
+- 🌱 Learning **AWS, Linux, Git, GitHub & CI/CD pipelines**
+- ☁ Working regularly with **EC2, VPC, S3, IAM, CloudTrail, RDS**
+- 💡 Passionate about automation & cloud technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills & Tools
+- **Cloud:** AWS (EC2, S3, IAM, VPC, RDS, CloudTrail)
+- **DevOps:** Git, GitHub, CI/CD basics
+- **OS:** Linux (CLI commands, server setup)
+- **Other:** Shell scripting (beginner), Git commands, Repo management
+
+---
+
+### 📌 Pinned Projects (Recommended)
+- AWS 3-Tier Architecture Deployment  
+- Git Commands Practice Repo  
+- Linux Commands Practice  
+- Sample CI/CD Pipeline Setup (future)
+
+---
+
+### 📫 Connect With Me  
+Feel free to check my repos or contact me for collaboration!
