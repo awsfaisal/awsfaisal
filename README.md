@@ -26,4 +26,5 @@
 ---
 
 ### 📫 Connect With Me  
-Feel free to check my repos or contact me for collaboration!
+Linkedin: https://www.linkedin.com/in/faisal-zaman-khan-3ab0a5223/
+
