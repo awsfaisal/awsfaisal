@@ -1,30 +1,55 @@
 # Hi, I'm Faisal 👋
-
-## 🚀 DevOps & Cloud Enthusiast  
-
-- 🔭 Currently practicing **3-Tier Architecture Deployment**
-- 🌱 Learning **AWS, Linux, Git, GitHub & CI/CD pipelines**
-- ☁ Working regularly with **EC2, VPC, S3, IAM, CloudTrail, RDS**
-- 💡 Passionate about automation & cloud technologies
+## 🚀 DevOps & Cloud Enthusiast
+## Cloud & DevOps Enthusiast | AWS | Linux | Git | CI/CD
+I’m passionate about **Cloud Computing and DevOps practices**, currently focusing on building hands-on projects and improving my skills in AWS infrastructure and automation.
 
 ---
 
-### 🛠 Skills & Tools
-- **Cloud:** AWS (EC2, S3, IAM, VPC, RDS, CloudTrail)
-- **DevOps:** Git, GitHub, CI/CD basics
-- **OS:** Linux (CLI commands, server setup)
-- **Other:** Shell scripting (beginner), Git commands, Repo management
+## ☁ Cloud & DevOps Skills
+
+**Cloud Platform**
+- AWS (EC2, VPC, S3, IAM, RDS, CloudTrail)
+
+**DevOps Tools**
+- Git
+- GitHub
+- CI/CD (Learning)
+
+**Operating System**
+- Linux (Command Line, Server Setup)
+
+**Other Skills**
+- Shell Scripting (Beginner)
+- Git Commands
+- Repository Management
 
 ---
 
-### 📌 Pinned Projects (Recommended)
-- AWS 3-Tier Architecture Deployment  
-- Git Commands Practice Repo  
-- Linux Commands Practice  
-- Sample CI/CD Pipeline Setup (future)
+## 🔧 Currently Working On
+
+- AWS **3-Tier Architecture Deployment Project**
+- Improving **Linux Administration Skills**
+- Learning **CI/CD pipelines**
+- Practicing **Git & GitHub workflows**
 
 ---
 
-### 📫 Connect With Me  
-Linkedin: https://www.linkedin.com/in/faisal-zaman-khan-3ab0a5223/
+## 📌 Featured Projects
 
+- **AWS 3-Tier Application Deployment**
+- **Linux Commands Practice**
+- **Git Commands Practice Repository**
+- **CI/CD Pipeline Setup (Coming Soon)**
+
+---
+
+## 🎯 Career Goal
+
+To start my career as a **Cloud / DevOps Engineer** and contribute to building scalable and secure cloud infrastructure.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/faisal-zaman-khan-3ab0a5223/
