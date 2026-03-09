@@ -1,5 +1,4 @@
 # Hi, I'm Faisal 👋
-## 🚀 DevOps & Cloud Enthusiast
 ## Cloud & DevOps Enthusiast | AWS | Linux | Git | CI/CD
 I’m passionate about **Cloud Computing and DevOps practices**, currently focusing on building hands-on projects and improving my skills in AWS infrastructure and automation.
 
